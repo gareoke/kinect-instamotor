@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Kinect</string>
+    <string name="conn_status_disconnected">No Internet</string>
+    <string name="conn_status_connected">Connected</string>
+
+</resources>
